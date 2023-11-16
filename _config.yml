@@ -6,8 +6,8 @@ url: "https://holdz.github.io" # the base hostname & protocol for your site, e.g
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: holdz/holdz.github.io # add your name
-author-img: logo.jpg # add your photo
+author: ./holdz.github.io # add your name
+author-img: ./logo.jpg # add your photo
 about-author: 최저가 상품<br> 연령별 추천상품 안내! # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
