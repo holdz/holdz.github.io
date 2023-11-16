@@ -7,11 +7,11 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Hlodz SHOP # add your name
-author-img: ./assets/img/logo.jpg # add your photo
+author-img: assets/img/logo.jpg # add your photo
 about-author: 최저가 상품<br> 연령별 추천상품 안내! # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: /holdz/holdz.github.io # add your Github handle
+social-github: holdz/holdz.github.io # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: sdkmg999@gmail.com # add your Email address
 
