@@ -7,7 +7,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: holdz # add your name
-author-img: logo.jpg # add your photo
+author-img: ./logo.jpg # add your photo
 about-author: 최저가 상품<br> 연령별 추천상품 안내! # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
